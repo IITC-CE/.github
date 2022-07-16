@@ -10,12 +10,12 @@ It is available for desktop browsers, such as Firefox and Chrome, and as a mobil
 
 This is a list of contributors of [IITC-CE](https://iitc.app).
 
-[iitc-ce]: https://contrib.rocks/image?repo=IITC-CE/ingress-intel-total-conversion&max=240&columns=20
-[website]: https://contrib.rocks/image?repo=IITC-CE/website&max=240&columns=20
-[community-plugins]: https://contrib.rocks/image?repo=IITC-CE/Community-plugins&max=240&columns=20
-[iitc-button]: https://contrib.rocks/image?repo=IITC-CE/IITC-Button&max=240&columns=20
-[iitc-prime]: https://contrib.rocks/image?repo=IITC-CE/IITC-Prime&max=240&columns=20
-[lib-iitc-manager]: https://contrib.rocks/image?repo=IITC-CE/lib-iitc-manager&max=240&columns=20
+[iitc-ce]: https://contrib.rocks/image?repo=IITC-CE/ingress-intel-total-conversion&max=240&columns=18
+[website]: https://contrib.rocks/image?repo=IITC-CE/website&max=240&columns=18
+[community-plugins]: https://contrib.rocks/image?repo=IITC-CE/Community-plugins&max=240&columns=18
+[iitc-button]: https://contrib.rocks/image?repo=IITC-CE/IITC-Button&max=240&columns=18
+[iitc-prime]: https://contrib.rocks/image?repo=IITC-CE/IITC-Prime&max=240&columns=18
+[lib-iitc-manager]: https://contrib.rocks/image?repo=IITC-CE/lib-iitc-manager&max=240&columns=18
 
 |        🔻 Project        | ❤ Contributors                                                                                    |
 | :----------------------: | :------------------------------------------------------------------------------------------------ |
